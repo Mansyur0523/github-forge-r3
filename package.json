@@ -1,0 +1,1 @@
+{"description":"A fast, dependency-free GitHub-compatible git forge (REST v3, GraphQL, MCP, git smart HTTP).","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"github-forge","scripts":{"start":"node --experimental-strip-types main.ts","test":"node --experimental-strip-types test/smoke.ts"},"type":"module","version":"1.0.0"}
